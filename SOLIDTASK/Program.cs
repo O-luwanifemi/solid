@@ -1,4 +1,7 @@
 ﻿using System;
+using SOLIDTASK.Models;
+using Interfaces.ICount;
+using System.Collections.Generic;
 
 namespace SOLIDTASK
 {
@@ -6,7 +9,8 @@ namespace SOLIDTASK
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //List<ICount> countables = new List<ICount>() { new Gadgets(), new Furnitures() };
+            var inventory = new Inventory();
         }
     }
 }
