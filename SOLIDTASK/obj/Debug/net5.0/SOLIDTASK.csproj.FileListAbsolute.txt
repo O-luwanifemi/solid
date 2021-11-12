@@ -1,0 +1,5 @@
+C:\Users\support\Desktop\Projects\c#\SOLIDTASK\SOLIDTASK\obj\Debug\net5.0\SOLIDTASK.csproj.AssemblyReference.cache
+C:\Users\support\Desktop\Projects\c#\SOLIDTASK\SOLIDTASK\obj\Debug\net5.0\SOLIDTASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support\Desktop\Projects\c#\SOLIDTASK\SOLIDTASK\obj\Debug\net5.0\SOLIDTASK.AssemblyInfoInputs.cache
+C:\Users\support\Desktop\Projects\c#\SOLIDTASK\SOLIDTASK\obj\Debug\net5.0\SOLIDTASK.AssemblyInfo.cs
+C:\Users\support\Desktop\Projects\c#\SOLIDTASK\SOLIDTASK\obj\Debug\net5.0\SOLIDTASK.csproj.CoreCompileInputs.cache
